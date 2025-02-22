@@ -1,4 +1,4 @@
-<p align="center">Hi there, I'm Yangyu Wang. 👋 </p>
+<h1 align="center">Hi there, I'm Yangyu Wang. 👋 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yangyu-wang-995099325/">
